@@ -54,9 +54,9 @@ const HeroSection = () => {
         </div>
       </div>
 
-      <div className="w-full bg-white">
+      {/* <div className="w-full bg-white">
         <div className="h-20 bg-gradient-to-br from-finx-primary to-finx-navy skew-y-3 transform origin-top-left"></div>
-      </div>
+      </div> */}
     </div>
   );
 };
